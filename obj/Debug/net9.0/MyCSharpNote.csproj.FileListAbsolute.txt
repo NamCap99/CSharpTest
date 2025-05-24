@@ -12,3 +12,4 @@ D:\C# ASP.Net Core Note\MyCSharpNote\obj\Debug\net9.0\refint\MyCSharpNote.dll
 D:\C# ASP.Net Core Note\MyCSharpNote\obj\Debug\net9.0\MyCSharpNote.pdb
 D:\C# ASP.Net Core Note\MyCSharpNote\obj\Debug\net9.0\MyCSharpNote.genruntimeconfig.cache
 D:\C# ASP.Net Core Note\MyCSharpNote\obj\Debug\net9.0\ref\MyCSharpNote.dll
+d:\C# ASP.Net Core Note\MyCSharpNote\obj\Debug\net9.0\MyCSharpNote.sourcelink.json
