@@ -6,7 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Running Q1");
-        aNullObject.Run();
+        Console.WriteLine("App is running...");
+        // aNullObject.Run();
+        aNullableType.Run();
     }
 }
