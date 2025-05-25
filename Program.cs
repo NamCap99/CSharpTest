@@ -8,6 +8,7 @@ class Program
     {
         Console.WriteLine("App is running...");
         // aNullObject.Run();
-        aNullableType.Run();
+        // aNullableType.Run();
+        equalInCSharp.Run();
     }
 }
