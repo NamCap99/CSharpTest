@@ -9,7 +9,7 @@ namespace MyCSharpNote.Question
     {
         public static void Run()
         {
-            int? age = 30;
+            int? age = null;
             if (age.HasValue)
             {
                 Console.WriteLine($"Age is {age.Value}");
@@ -18,6 +18,10 @@ namespace MyCSharpNote.Question
             {
                 Console.WriteLine("Age is not provided");
             }
+
+            // using coalesing operator
+            int displayAge = age ?? -1;
+            Console.WriteLine($"Display Age: {displayAge}");
         }
     }
 }
