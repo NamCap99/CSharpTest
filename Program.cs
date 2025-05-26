@@ -1,5 +1,4 @@
 ﻿using System;
-using MyCSharpNote;
 using MyCSharpNote.Question;
 
 class Program
@@ -9,6 +8,7 @@ class Program
         Console.WriteLine("App is running...");
         // aNullObject.Run();
         // aNullableType.Run();
-        equalInCSharp.Run();
+        // equalInCSharp.Run();
+        RefOutInExample.Run();
     }
 }
