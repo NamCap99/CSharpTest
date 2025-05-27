@@ -30,11 +30,13 @@ namespace MyCSharpNote.Question
 
         public static void Print(List<int> list)
         {
-            Console.WriteLine("Use generic: ");
+            System.Console.WriteLine("Use generic: ");
             foreach (int item in list)
             {
                 Console.WriteLine(item);
             }
         }
+
+
     }
 }
