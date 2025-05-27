@@ -9,6 +9,7 @@ class Program
         // aNullObject.Run();
         // aNullableType.Run();
         // equalInCSharp.Run();
-        RefOutInExample.Run();
+        boxingUnboxing.RunWithBoxingUnBoxing();
+        boxingUnboxing.RunUseGeneric();
     }
 }
