@@ -13,6 +13,6 @@ class Program
         // boxingUnboxing.RunWithBoxingUnBoxing();
         // boxingUnboxing.RunUseGeneric();
         // genericsInCSharp.Run();
-        delegateExample.Run();
+        delegateInCSharp.Run();
     }
 }
