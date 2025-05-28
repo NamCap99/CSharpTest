@@ -12,6 +12,6 @@ class Program
         // equalInCSharp.Run();
         // boxingUnboxing.RunWithBoxingUnBoxing();
         // boxingUnboxing.RunUseGeneric();
-        readonlyInCSharp.Run();
+        genericsInCSharp.Run();
     }
 }
