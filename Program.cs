@@ -12,6 +12,7 @@ class Program
         // equalInCSharp.Run();
         // boxingUnboxing.RunWithBoxingUnBoxing();
         // boxingUnboxing.RunUseGeneric();
-        genericsInCSharp.Run();
+        // genericsInCSharp.Run();
+        delegateExample.Run();
     }
 }
